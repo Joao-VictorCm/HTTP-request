@@ -1,1 +1,18 @@
 # HTTP-request
+
+
+GET 
+O método HTTP GET solicita uma representação do recurso especificado. Solicitações usando GET só devem recuperar dados.
+
+POST
+O método HTTP POST envia dados ao servidor. O tipo do corpo da solicitação é indicado pelo cabeçalho Content-Type
+
+PUT
+O método de requisição HTTP PUT cria um novo recurso ou subsititui uma representação do recurso de destino com os novos dados.
+
+PATCH
+O método de requisição HTTP PATCH aplica modificações parciais a um recurso.
+O método HTTP PUT permite apenas substituições completas de um documento.
+
+DELETE
+O método de requisição HTTP DELETE remove o recurso especificado.
